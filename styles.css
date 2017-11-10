@@ -1,0 +1,54 @@
+body {
+	width: 100%;
+	max-width: 1224px;
+	margin: 0 auto;
+	background-color: rgb(179, 0, 0);
+    font-size: 100.5%;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed" rel="stylesheet">
+
+
+h1 {
+    text-align: center;  
+    font-size: 2em;
+    
+}
+
+main h2 {
+    padding: 0.5em 0.5em 0.5em; 
+}
+
+
+nav ul {
+	text-align: left;
+	padding: 10;
+}
+
+p {
+	padding: .09em;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+
+img {
+	width: 75%;
+    max-width: 75%;
+}
+
+
+	
+
+
